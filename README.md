@@ -7,7 +7,7 @@ Results showed that fine tuned VGG16 with an average pooling layer, a size-64 fu
 
 [SneakerDataset](https://drive.google.com/drive/folders/1EOROtXHeroQuaXe81oUmvjj575DnNo3c?usp=sharing) have been shared and anyone is allowed to use it for learning or teaching purposes.
 
-More details about this projects are described in [Sneaker_Classifier.ipynb](Sneaker_Classifier.ipynb)
+More details about this projects are described in [Sneaker_Classifier.ipynb](Sneaker_Classifier.ipynb) (Please be patient while it's loading or reloading)
       
 ## Overview of [SneakerDataset](https://drive.google.com/drive/folders/1EOROtXHeroQuaXe81oUmvjj575DnNo3c?usp=sharing) 
 
